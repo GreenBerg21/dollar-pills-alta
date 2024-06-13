@@ -5,7 +5,7 @@
 
 **VIDEO** https://youtu.be/3fsiBA3xQIk
 
-**COPYRIGHTS**
+**COPYRIGHTS**<br>
 Mapping is the property of **GreenCom Mapping**, all rights reserved. Available for download and personal use.
 After downloading you can use the mapping for gaming and entertainment purposes. 
 It is NOT PERMITTED to pass off mapping as your own, sell on third-party resources, transfer mapping to a third party in any of the formats for profit. 
