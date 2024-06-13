@@ -13,3 +13,6 @@ If you have conflicts with other modifications from this modification - you can 
 If the modification affects the performance of your server - you can remove the modification.
 On this mapping there is partial support from the administration of the studio, as mapping is free any requests for it gets in the queue about processed without priority. 
 If you have any wishes to change this modification and / or priority tasks - we will be happy to help you for a donation for our studio.
+
+**Conflicts**<br>
+![conflicts](https://github.com/GreenBerg21/dollar-pills-alta/assets/111581426/81df3e23-fedc-407e-bec0-cff8ae0fb8ab)
